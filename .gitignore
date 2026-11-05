@@ -1,0 +1,17 @@
+# MetaTrader build outputs and tester artefacts
+*.ex5
+*.ex4
+*.log
+Tester/
+# Python
+__pycache__/
+.venv/
+*.pyc
+# Data (store large datasets outside git; see docs/BACKTESTING_PROTOCOL.md)
+data/raw/
+data/*.parquet
+*.duckdb
+# Secrets must never be committed
+.env
+*.key
+*credentials*
