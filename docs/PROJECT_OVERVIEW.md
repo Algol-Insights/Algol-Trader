@@ -25,7 +25,7 @@ Project decisions **not** in the business plan are recorded in `DECISIONS.md`: X
 ## Phases (detail in the 2026-11-05 assessment, Deliverable 6)
 | Phase | Name | Status |
 |---|---|---|
-| P0 | Foundations (GitHub, Windows MT5, compile) | **Blocked — needs Windows MT5 and GitHub access** |
+| P0 | Foundations (GitHub, Windows MT5, compile) | **In progress** — GitHub done (M-1, 2026-11-05); **Windows MT5 + MetaEditor still needed** for M-2 |
 | P1 | Instrumentation and baseline measurement | Not started |
 | P2 | Data and research stack | Not started |
 | P3 | Hypothesis research | Not started |

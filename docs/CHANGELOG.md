@@ -3,7 +3,14 @@
 Format: version — date — status — reason for existence — summary. Status uses the project labels.
 
 ## [Unreleased]
-- 2026-11-05 — Documentation, project skills and local git repository created. No EA code changed after v3.1.
+- 2026-11-05 — Documentation, project skills and git repository created. No EA code changed after v3.1.
+- 2026-11-05 — **M-1 done:**
+  - history imported into `Algol-Insights/Algol-Trader` (branch `phase1/foundation`);
+  - v3.0 and v3.1 frozen in `legacy/`;
+  - active working copy at `mql5/Experts/AlgolGold/AlgolGold.mq5`, byte-identical to v3.1;
+  - README added.
+  
+  The plan M-1 → M-6 was approved by the owner (D-008).
 
 ## v3.1 — 2026-11-05 — [UNTESTED: never compiled]
 **Reason:** fix defects found when reviewing v3.0. These are listed in `assessment/2026-11-05_INITIAL_ASSESSMENT.md`, Table A.

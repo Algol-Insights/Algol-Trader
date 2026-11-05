@@ -15,3 +15,6 @@ data/*.parquet
 .env
 *.key
 *credentials*
+
+# Local exports / bundles
+*.zip

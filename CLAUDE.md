@@ -23,5 +23,7 @@ Read `docs/PROJECT_OVERVIEW.md` first, then the doc relevant to the task.
 - `.claude/skills/` — project skills: research, MQL5 engineering, validation, risk governance, release/audit
 
 ## Current state (update when it changes)
-- v3.0: supplied baseline, frozen. v3.1: defect fixes, **[UNTESTED] — never compiled**.
+- Active EA: `mql5/Experts/AlgolGold/AlgolGold.mq5` (= v3.1, **[UNTESTED] — never compiled**).
+- Frozen: `legacy/AlgoTraderGold_v3.0.mq5` (supplied baseline), `legacy/AlgoTraderGold_v3.1.mq5`.
+- Plan M-1 → M-6 approved 2026-11-05 (DECISIONS D-008). M-1 done; next is M-2 (compile on Windows MT5).
 - No backtests have been run in this project yet.

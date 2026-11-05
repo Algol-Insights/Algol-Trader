@@ -27,6 +27,12 @@
 | Private GitHub repo `Algol-Insights/Algol-Trader` (last push 2026-11-05) | Exists on your account; attaching it to this session was **blocked by a permission check**. It may contain earlier versions or results; it has *not* been inspected. |
 | Compilation, Strategy Tester runs, any quantitative measurement | **None performed.** No MetaTrader 5 / MetaEditor is available in this environment (see Deliverable 9). |
 
+> **Addendum (later on 2026-11-05):**
+> - The owner approved the implementation plan (Deliverable 8).
+> - `Algol-Insights/Algol-Trader` was then attached and inspected. It contained only a one-line README, so there were no earlier versions or results.
+> - This document is now stored there. File paths changed under M-1: EA versions are in `legacy/`, and the active copy is `mql5/Experts/AlgolGold/AlgolGold.mq5`.
+> - The body below is unchanged from the original assessment.
+
 **Consequence:** every statement below about profitability, edge, or the effect of a rule is a **hypothesis** until tested. Statements about what the code *does* are code-verified.
 
 ---

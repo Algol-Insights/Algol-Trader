@@ -5,7 +5,7 @@
 ## Status as of 2026-11-05
 - **Compilation:** none performed (no MetaEditor in the Claude environment).
 - **Backtests:** none performed in this project.
-- **Prior results:** none provided. The private repo `Algol-Insights/Algol-Trader` may contain some; not yet inspected.
+- **Prior results:** none provided. The repo `Algol-Insights/Algol-Trader` was inspected on 2026-11-05: it contained only a one-line README, so there are no earlier versions or results there.
 
 ## Entry template
 ```

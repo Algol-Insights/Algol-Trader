@@ -1,12 +1,12 @@
 # Architecture
 
 ## Current (as of 2026-11-05)
-- **v3.0** (`AlgoTraderGold_v3.0.mq5`):
+- **v3.0** (`legacy/AlgoTraderGold_v3.0.mq5`, frozen):
   - single-file procedural EA; global state;
   - `OnInit` / `OnDeinit` / `OnTick` only;
   - no persistence;
   - signal, risk and execution are intermixed in `CheckForSignals`.
-- **v3.1** (`AlgoTraderGold_v3.1.mq5`):
+- **v3.1** (`legacy/AlgoTraderGold_v3.1.mq5`, frozen; working copy at `mql5/Experts/AlgolGold/AlgolGold.mq5`):
   - same structure, plus closed-position accounting by polling;
   - state persisted in terminal global variables;
   - positions re-adopted after a restart;
